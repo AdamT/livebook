@@ -46,6 +46,8 @@ pick the one that best fits your use case.
   * [Launch a Livebook instance close to you on Fly.io](https://fly.io/launch/livebook)
 
 ### Desktop app
+  
+  Mac installer requires MacOS 12.0+
 
   * [Download the installer for Windows and Mac from our homepage](https://livebook.dev/)
 
